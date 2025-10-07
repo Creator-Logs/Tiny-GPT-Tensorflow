@@ -27,15 +27,6 @@ The goal of this project is to:
 
 ---
 
-## 📂 Project Structure
-
-```
-├── main.ipynb      # Main notebook (model, training, and generation)
-└── data/           # Dataset directory (contains shakespeare.txt or other corpora)
-```
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
